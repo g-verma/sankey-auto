@@ -9,9 +9,11 @@ sankey diagram for automobiles industries
 yarn install
 
 #if you don't have server install use below command
+<br>
 yarn add http-server
 
 #run server
+<br>
 yarn http-server
 
 
